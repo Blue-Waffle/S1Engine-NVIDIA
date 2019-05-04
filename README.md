@@ -7,7 +7,7 @@ Optimized S1Engine for NVIDIA GPUs
 
 𝟚) 𝔻𝕣𝕒𝕘 𝕚𝕟𝕥𝕠 𝕋𝔼ℝ𝔸\ℂ𝕝𝕚𝕖𝕟𝕥\𝕊𝟙𝔾𝕒𝕞𝕖\ℂ𝕠𝕟𝕗𝕚𝕘
    
-   (Steam/steamapps/common/TERA for Steam TERA)
+   (Steam/steamapps/common/TERA for Steam TERA) OR
    (Program(x##)/TERA For Non-Steam TERA)
 
 𝟛) 𝕊𝕖𝕥 𝕒𝕤 ℝ𝔼𝔸𝔻 𝕆ℕ𝕃𝕐 𝕚𝕟 𝕡𝕣𝕠𝕡𝕖𝕣𝕥𝕚𝕖𝕤
